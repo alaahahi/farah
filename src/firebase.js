@@ -4,12 +4,12 @@ import 'firebase/compat/firestore';
 import { ref, onUnmounted } from 'vue'
 
 const config = {
-  apiKey: "AIzaSyDCO8KliEOgW8WUXI6iq1byDRFn2-navls",
-  authDomain: "cms-baghdad.firebaseapp.com",
-  projectId: "cms-baghdad",
-  storageBucket: "cms-baghdad.appspot.com",
-  messagingSenderId: "96637471251",
-  appId: "1:96637471251:web:7a2e8d03b50e28c76d0de6"
+  apiKey: "AIzaSyDcL7UQeE0amvNp1pEsTUyzQhKcbPN1fHU",
+  authDomain: "farah-ngo.firebaseapp.com",
+  projectId: "farah-ngo",
+  storageBucket: "farah-ngo.appspot.com",
+  messagingSenderId: "257931574532",
+  appId: "1:257931574532:web:7a146255bf362bcbf72451"
 }
 
 const firebaseApp = firebase.initializeApp(config)
