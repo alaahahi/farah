@@ -1,1 +1,1 @@
-firebase deploy --only hosting farah
+firebase deploy --only hosting farah-ngo

@@ -2,12 +2,12 @@ import firebase from 'firebase'
 import { ref, onUnmounted } from 'vue'
 
 const config = {
-  apiKey: "AIzaSyBBqYyTfXmeYsPD3YzVyoGlxe8FqFrbdag",
+  apiKey: "AIzaSyDcL7UQeE0amvNp1pEsTUyzQhKcbPN1fHU",
   authDomain: "farah-ngo.firebaseapp.com",
-  projectId: "farah-3f95c",
-  storageBucket: "farah-3f95c.appspot.com",
-  messagingSenderId: "844556490172",
-  appId: "1:844556490172:web:fa40bdc619a4526b5907b9"
+  projectId: "farah-ngo",
+  storageBucket: "farah-ngo.appspot.com",
+  messagingSenderId: "257931574532",
+  appId: "1:257931574532:web:7a146255bf362bcbf72451"
 
 
 }
