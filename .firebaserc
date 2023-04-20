@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "cms-baghdad",
-    "cms": "cms-baghdad"
+    "default": "farah",
+    "cms": "farah"
   },
   "targets": {},
   "etags": {}
